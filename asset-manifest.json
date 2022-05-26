@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mnkGraph/static/css/main.3af01692.css",
-    "main.js": "/mnkGraph/static/js/main.8588229a.js",
+    "main.js": "/mnkGraph/static/js/main.9067443b.js",
     "index.html": "/mnkGraph/index.html",
     "main.3af01692.css.map": "/mnkGraph/static/css/main.3af01692.css.map",
-    "main.8588229a.js.map": "/mnkGraph/static/js/main.8588229a.js.map"
+    "main.9067443b.js.map": "/mnkGraph/static/js/main.9067443b.js.map"
   },
   "entrypoints": [
     "static/css/main.3af01692.css",
-    "static/js/main.8588229a.js"
+    "static/js/main.9067443b.js"
   ]
 }
