@@ -1,0 +1,50 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+ 
+  .data {
+    display: table;
+  }
+
+  .data-list{
+    display: table-cell;
+  }
+
+  .node {
+    display: table-row;
+  }
+
+  .add {
+    background: #fff;
+    border: 1px solid;
+    width:88px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 1px;
+  }
+
+  .plot {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    height: 43px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 177px;
+  }
+  
+  .app {
+    display: flex;
+    flex-direction: row;
+  }
